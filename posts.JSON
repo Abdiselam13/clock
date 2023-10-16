@@ -1,0 +1,12 @@
+[
+    {
+        "Titel" : "dacar",
+        "body" : "this is a body",
+        "user" : "dev dacar"
+    },
+    {
+        "Titel" : "post two",
+        "body"  : "this is body 2",
+        "user" :  "dek dev"
+     }
+]
